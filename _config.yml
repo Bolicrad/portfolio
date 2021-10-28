@@ -1,11 +1,11 @@
-title: Hexo
+title: 'Lei Zhao, Game Designer & Developer'
 subtitle: ''
 description: ''
 keywords: null
-author: John Doe
+author: 'Lei Zhao'
 language: en
 timezone: ''
-url: http://example.com
+url: 'http://bolicrad.github.io'
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -61,4 +61,6 @@ exclude: null
 ignore: null
 theme: icarus
 deploy:
-  type: ''
+  type: 'git'
+  repo: 'https://github.com/Bolicrad/Bolicrad.github.io'
+  branch: 'main'
