@@ -1,15 +1,14 @@
 ---
 title: How to Use an iPad as the Only Display of Mac Mini
-tags: 
-- Tech
-- macOS
+tags: [Tech, macOS]
+urlname: MacMiniAutoSidecar
 ---
 
 We all know that Apple provided a feature called Sidecar. In the recent macOs Monterey, the the pane 'Sidecar' disappeared from System Preference App. Actually this feature is still availble through the pane "Display". This article is not to instruct you how to open the sidercar step by step, but to provide a new stable way to automatically open it every time when you open your mac, then for mac mini users who only want to display mac on iPads, your dream could come true. 
 
 ## Stop buzzling, show me the code!
 
-``` AppleScript
+``` AppleScript AutoSidecar
 tell application "System Preferences"
 	activate
 	delay 0.5

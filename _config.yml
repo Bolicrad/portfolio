@@ -6,7 +6,7 @@ author: 'Lei Zhao'
 language: en
 timezone: ''
 url: 'http://bolicrad.github.io'
-permalink: ':year/:month/:day/:title/'
+permalink: 'post/:urlname/'
 permalink_defaults: null
 pretty_urls:
   trailing_index: true
