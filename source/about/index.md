@@ -1,6 +1,7 @@
 ---
 title: Hello, I'm Lei, a.k.a. Bolicrad.
 date: 2021-10-28 01:09:40
+toc: true
 ---
 > Developers, developers, developers…
 
