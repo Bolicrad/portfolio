@@ -85,13 +85,17 @@ This game originated in a hackathon intended to help an NGO enhance its public c
 * Role: Technical Designer and Gameplay Programmer
 * Duration: 2 Weeks, August 2021- September 2021
 * Engine: Monogame
-* Special: First Prototype in EAE Rapid Prototype COurse, Ranked Top 3 in peer voting.
+* Special: First Prototype in EAE Rapid Prototype Course, Ranked Top 3 in peer voting.
 
 This prototype was required to design around a toy boomerang (toy varies among teams). I researched the engines that was allowed and made decision for the team to use Monogame. I explored and inplemented the Monogame.Extended library to the project files, and helped the programmer to finish many features such as animation state machine, movement algorithm, game cycle logics. I also helped producer in pitching for operating the live demo because I was the only one in the team who could pass the hard level.
 
 ## b) Inky Cocos Port
 
-2019-2020, Programmer
+* Role: Developer
+* Duration: 2 weeks in November 2019
+* Engine: Cocos Creator
+
+This tech demo is a part of my work result in Dr.Stone Popular Science Studio.
 
 ## c) Liangzhu Interactive Manga Web Port
 
