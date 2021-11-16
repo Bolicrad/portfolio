@@ -5,7 +5,7 @@ toc: true
 ---
 > Developers, developers, developers…
 
-## Who am I
+## Who am I?
 
 I'm a game developer. No matter which role I performed in a game project, no matter how I get involved in the game project, no matter whether I code or not in the game project, I'm firstly a game developer.
 
@@ -39,21 +39,23 @@ Then I'd take steps to research, implement, apply, and refine those new tools. T
 
 I understand such position is still not common in the industry, especially for internships, so I'm also developing my design and production skill trees. I also have gameplay programming exerience. If you are looking for a game designer/producer/gameplay programmer intern, I'm still confident to become a candidate. 
 
-## To Artists, Social Workers and Scientists:
+## To Artists, Social Workers, and Scientists:
 
 I can cooperate with you if:
 
 * You have fancy interactive ideas but lack an experienced developer to cooperate with;
-* You have a story about vulnerable groups to tell, but worrying about not able to reach to audience in traditional media;
-* You want to show you science researches or just popularize some science concepts to the public, to improve public understanding of science.
+* You have a story about vulnerable groups to tell, but worrying about not being able to reach to audience in traditional media;
+* You want to show your science researches or popularize some science concepts to the public, to improve public understanding of science.
 
-I have a full skillset to help you create interactive projects, game or non-game, for your purpose. You can call those projects "Serious Games" as you wish, though I don't really like this term. My undergraducate direction was mass communication for sicence topics, and I have several practices in such area. 
+I have a full skill set to help you create interactive projects, game or non-game, for your purpose. You can call those projects "Serious Games" as you wish, though I don't really like this term. My undergraduate direction was mass communication for science topics, and I have several practices in such areas. 
 
 ## Thank You for Reading
 
 I hope you can learn some slices of me from those words. Please also check my [portfolio](/portfolio) and [resume](/resume).
 
-Once again, I'm Lei, do not hesitate to contact me if you are interested. Not only for recruiting and cooperation, you're also welcomed to discuss with me in many topics about or not about games. Out of a game developer a hardcore game player, but also a hobbist in railways and metro, skiing, urban planning, regional development, geopolitics, consipiracy, urban legends, etc. 
+Once again, I'm Lei, do not hesitate to contact me if you are interested. Not only for recruiting and cooperation, but you're also welcome to discuss many topics about or not about games with me. 
+
+Besides being a game developer and a hardcore gamer, I'm also a hobbyist in the railway system, skiing, urban planning, regional development, geopolitics, conspiracy, urban legends, etc.
 
 ## My Recent FaceTime Screenshot
 
