@@ -19,8 +19,8 @@ toc: true
 
 This project is a 2D platformer game where players could explore multiple themed worlds, using swords and elementary magics to fight against various bosses. I worked on this title for about 4 months with a team of 5, including another programmer and 3 artists. I mainly focused on the design and programming work of enemy AI and Boss Fights. I also instructed the artist team to create the tilemap, designed the level blocks in the 3.0 version, and coded for the level random generating algorithms.
 
-#### [See more details in this Dev Story post.](/post/Retrieve)
-#### [Download from itch.io](https://mcatin.itch.io/retrieve)
+### [See more details in this Dev Story post.](/post/Retrieve)
+### [Download from itch.io](https://mcatin.itch.io/retrieve)
 
 
 ## b) Project Haiku
@@ -34,7 +34,7 @@ This project is a 2D platformer game where players could explore multiple themed
 
 This project is an interactive music performance experience. I cooperated with musician and artist Clore Cai and tried to provide a space for the audience to contribute to the sound field through their new organ: the smartphone. I used Cocos Creator to create a juicy user interface based on Html5. I utilized WebAudio to make it possible for the players to generate and modify the music from their smartphones. I also programmed for the client-master communication features using the chatroom framework by Agora to help musicians and VJ to adjust their theme according to the audience's state and the whole sound field.
 
-#### [Try the live demo on gitee.io](https://bolicrad.gitee.io/artest)
+### [Try the live demo on gitee.io](https://bolicrad.gitee.io/artest)
 
 ## c) Bouncy Strike
 
@@ -58,7 +58,7 @@ This game was the main project when I worked at Tantrum Network. I took all prog
 
 This game is a contract work from an individual who wanted to bring the experience of rolling dice with friends from the bar to virtual, as the covid breakout made it impossible to gather together in the bar. I systematically learned the rule of the desired dice game, then made it digital with my artist cooperator Chuxian Wang. The core engineer problem is online communication: Finally, I discovered a new cloud framework provided by WeChat, with which I could create sessions for the online play without any server-end codes.
 
-#### Try the live demo in Wechat by scanning this QR code (Chinese version only)
+### Try the live demo in Wechat by scanning this QR code (Chinese version only)
 
 ![](/gallery/Dice2.JPG)
 
@@ -89,22 +89,54 @@ This game originated in a hackathon intended to help an NGO enhance its public c
 
 This prototype was required to design around a toy boomerang (toy varies among teams). I researched the engines that was allowed and made decision for the team to use Monogame. I explored and inplemented the Monogame.Extended library to the project files, and helped the programmer to finish many features such as animation state machine, movement algorithm, game cycle logics. I also helped producer in pitching for operating the live demo because I was the only one in the team who could pass the hard level.
 
-## b) Inky Cocos Port
+### [Check project files on Google Drive](https://drive.google.com/drive/folders/1R0zp-6w-1aIIk_SzZm95iEI_BcD5IFdX)
+
+## b) Trick
+
+{% youtuber video LzszWMT26j4 %}
+{% endyoutuber %}
+
+* Role: Game Designer & Gameplay programmer
+* Duration: a Week in Janurary 2019
+* Engine: Unity
+* Special: My first game prototype cooperated with experienced teammates.
+
+This prototype is my fisrt piece of work in video game, cooperated with two other experienced programmers and three student artists. For design, I brought up the idea of asymmetric local multiplayer, that one player control the hero with keyboard and the other control the demon king with mouse to trigger the traps. For engineering, I focused on the algorithm of the traps' movement and enemies' logic (especially the creppy flies). I also finished half of the level design, by creating level prefab with the object brush provided by my teammate.
+
+### [Try the live demo on itch.io](https://bolicrad.itch.io/trick)
+
+## c) Liangzhu Interactive Manga Web Port
+
+<video  width="100%" height="auto" controls Autoplay=autoplay style="aspect-ratio:750/1334">
+    <source src="./Liangzhu1.mov" type="video/mp4">
+</video>
+
+* Role: Developer
+* Duration: a Week in Janurary 2021
+* Engine: Cocos Creator
+
+This tech demo is a part of my work result at Tantrum Network. Liangzhu was an interactive comic originated from an artist's student-era project made with Unity, and this start-up company wanted to port this project to a platform only support web-version game files. I then researched and developed the warping codes to directly import the psd files with certain layer hierarchy into cocos creator's object hierarchy, and transform them into working interactable comic automaticly. Based on the [Baum.js](https://github.com/kyubuns/Baum2) Photoshop plugin and [Baum2CocosCreator](https://github.com/chooaya/Baum2CocosCreator) library. Also added motion frames and interactable choices.
+
+### [Try the live demo on gitee.io](https://bolicrad.gitee.io/baum-preview)
+
+## d) Inky Cocos Port
 
 * Role: Developer
 * Duration: 2 weeks in November 2019
 * Engine: Cocos Creator
 
-This tech demo is a part of my work result in Dr.Stone Popular Science Studio.
+This tech demo is a part of my work result in Dr.Stone Popular Science Studio. The students in earth and space science intended to make some physics-based minigames by themselves with cocos creator, and wanted to add a framework to for science-themed interactive dialouges. So I imported the [ink.js](https://github.com/y-lohse/inkjs) library to the cocos proejct, and made a tech demo to excute the file exported from the [inky editor](https://github.com/inkle/inky), to empower the game team to create fun choices and questions.
 
-## c) Liangzhu Interactive Manga Web Port
-
-2020, Programmmer
-
-## d) Trick
-
-2019, Gameplay Programmer
 
 ## e) Trash Truck
 
-2019, Solo Game Developler
+![](/gallery/Trash1.JPG)
+
+* Role: Solo Game Developer
+* Duration: March-May 2019
+* Engine: Unity
+* Special: Serious Game, won my undergraduate university's Energy Saving creation award.
+
+This is a serious game themed on trash categorizing and recycling, intended to educate kids to learn how to throw the trash into correct kind of trashcan to help the socitey to deal with recycling better. Created with [Unity Playground](https://github.com/Unity-Technologies/UnityPlayground).
+
+### [Try the live demo on itch.io](https://bolicrad.itch.io/trash-truck)
