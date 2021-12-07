@@ -3,7 +3,6 @@ title: Portfolio
 date: 2021-10-28 01:10:01
 toc: true
 ---
-> This page is still under construction. If you find some entries that were not complete as the first one, please focus on the existing items. Sorry for that.   
 
 # 1. Main Projects
 
@@ -36,7 +35,20 @@ This project is an interactive music performance experience. I cooperated with m
 
 ### [Try the live demo on gitee.io](https://bolicrad.gitee.io/artest)
 
-## c) Bouncy Strike
+## c) Heist-N-Heat Infinite
+
+![](https://img.itch.zone/aW1nLzc1OTMxMzEucG5n/original/2p%2BObU.png)
+
+* Role: Techinal UI Designer & Producer
+* Duration: November 2021 - December 2021
+* Engine: Made with Unreal
+* Special: My final project in the MEAE Rapid Prototype Course.
+
+This project is an race game that players drives a crazy car in the cit collecting treasure and fuel, avoiding the cop's chase. The highlight is that we have the twitch integration that twitch watcher could use command to produce obstacle or boosters for the player when streaming. I joined the project in the mid-phase and took over the UI function remake, 2D/UI art asset management, as well as technology research works on twitch API. 
+
+### [Try the live demo on itch.io](https://foursay.itch.io/heist-n-heat-infinite)
+
+## d) Bouncy Strike
 
 ![](/gallery/Bouncy1.JPG)
 
@@ -46,9 +58,9 @@ This project is an interactive music performance experience. I cooperated with m
 
 This game was the main project when I worked at Tantrum Network. I took all programming works of this game from scratch, including the main gameplay, data structure of heroes and enemies, UI framework, animation pipeline, data automation, etc. 
 
-#### [Try the live demo on itch.io](https://bolicradar.itch.io/bouncy-strike) (Passcode: Bolicrad)
+### [Try the live demo on itch.io](https://bolicradar.itch.io/bouncy-strike) (Passcode: Bolicrad)
 
-## d) Everyday Dice Game
+## e) Everyday Dice Game
 
 ![](/gallery/Dice1.png)
 
@@ -63,7 +75,7 @@ This game is a contract work from an individual who wanted to bring the experien
 ![](/gallery/Dice2.JPG)
 
 
-## e) Grassland Guardian
+## f) Grassland Guardian
 
 ![](/gallery/Grass1.png)
 
@@ -119,7 +131,9 @@ This tech demo is a part of my work result at Tantrum Network. Liangzhu was an i
 
 ### [Try the live demo on gitee.io](https://bolicrad.gitee.io/baum-preview)
 
-## d) Inky Cocos Port
+## d) Inky_Stone
+
+![](/gallery/Inky1.png)
 
 * Role: Developer
 * Duration: 2 weeks in November 2019
@@ -127,6 +141,7 @@ This tech demo is a part of my work result at Tantrum Network. Liangzhu was an i
 
 This tech demo is a part of my work result in Dr.Stone Popular Science Studio. The students in earth and space science intended to make some physics-based minigames by themselves with cocos creator, and wanted to add a framework to for science-themed interactive dialouges. So I imported the [ink.js](https://github.com/y-lohse/inkjs) library to the cocos proejct, and made a tech demo to excute the file exported from the [inky editor](https://github.com/inkle/inky), to empower the game team to create fun choices and questions.
 
+### [Try the live demo on itch.io](https://bolicradar.itch.io/inky-stone)
 
 ## e) Trash Truck
 
