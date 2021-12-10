@@ -55,7 +55,7 @@ I hope you can learn some slices of me from those words. Please also check my [p
 
 Once again, I'm Lei, do not hesitate to contact me if you are interested. Not only for recruiting and cooperation, but you're also welcome to discuss many topics about or not about games with me. 
 
-Besides being a game developer and a hardcore gamer, I'm also a hobbyist in the railway system, skiing, urban planning, regional development, geopolitics, conspiracy, urban legends, etc.
+Besides being a game developer and a hardcore gamer, I'm also a hobbyist in the railway system, skiing, urban planning, regional development, geopolitics, urban legends, etc.
 
 ## My Recent FaceTime Screenshot
 
