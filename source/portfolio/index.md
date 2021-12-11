@@ -24,7 +24,10 @@ This project is a 2D platformer game where players could explore multiple themed
 
 ## b) Project Haiku
 
-![](/gallery/Haiku1.JPG)
+<!-- ![](/gallery/Haiku1.JPG) -->
+
+{% youtuber video ZstEXjlXGQU %}
+{% endyoutuber %}
 
 * Role: Game Designer & Programmer
 * Duration: October 2020 - December 2020; April 2021 - May 2021
@@ -46,11 +49,13 @@ This project is an interactive music performance experience. I cooperated with m
 
 This project is an race game that players drives a crazy car in the cit collecting treasure and fuel, avoiding the cop's chase. The highlight is that we have the twitch integration that twitch watcher could use command to produce obstacle or boosters for the player when streaming. I joined the project in the mid-phase and took over the UI function remake, 2D/UI art asset management, as well as technology research works on twitch API. 
 
-### [Try the live demo on itch.io](https://foursay.itch.io/heist-n-heat-infinite)
+### [Download from itch.io](https://foursay.itch.io/heist-n-heat-infinite)
 
 ## d) Bouncy Strike
 
-![](/gallery/Bouncy1.JPG)
+<!-- ![](/gallery/Bouncy1.JPG) -->
+
+<iframe width="100%" height="auto" style="aspect-ratio:750/1334" mozallowfullscreen="true" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr" frameborder="0" src="https://v6p9d9t4.ssl.hwcdn.net/html/4729354/web-mobile/index.html" msallowfullscreen="true" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" id="game_drop" allowtransparency="true"></iframe>
 
 * Role: Gameplay Programmer
 * Duration: December 2020 - April 2021
@@ -58,7 +63,7 @@ This project is an race game that players drives a crazy car in the cit collecti
 
 This game was the main project when I worked at Tantrum Network. I took all programming works of this game from scratch, including the main gameplay, data structure of heroes and enemies, UI framework, animation pipeline, data automation, etc. 
 
-### [Try the live demo on itch.io](https://bolicradar.itch.io/bouncy-strike) (Passcode: Bolicrad)
+### [Try the live demo on itch.io](https://bolicradar.itch.io/bouncy-strike)
 
 ## e) Everyday Dice Game
 
@@ -77,7 +82,10 @@ This game is a contract work from an individual who wanted to bring the experien
 
 ## f) Grassland Guardian
 
-![](/gallery/Grass1.png)
+<!-- ![](/gallery/Grass1.png) -->
+
+<iframe width="100%" height="auto" style="aspect-ratio:9/16" mozallowfullscreen="true" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr" frameborder="0" src="https://v6p9d9t4.ssl.hwcdn.net/html/4737584/web-mobile/index.html" msallowfullscreen="true" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" id="game_drop" allowtransparency="true"></iframe>
+
 
 * Role: Solo Game Developer
 * Duration: Originated in May 2019, developed from December 2019 to June 2020
@@ -115,13 +123,12 @@ This prototype was required to design around a toy boomerang (toy varies among t
 
 This prototype is my fisrt piece of work in video game, cooperated with two other experienced programmers and three student artists. For design, I brought up the idea of asymmetric local multiplayer, that one player control the hero with keyboard and the other control the demon king with mouse to trigger the traps. For engineering, I focused on the algorithm of the traps' movement and enemies' logic (especially the creppy flies). I also finished half of the level design, by creating level prefab with the object brush provided by my teammate.
 
-### [Try the live demo on itch.io](https://bolicrad.itch.io/trick)
+### [Download from itch.io](https://bolicrad.itch.io/trick)
 
 ## c) Liangzhu Interactive Manga Web Port
 
-<video  width="100%" height="auto" controls Autoplay=autoplay style="aspect-ratio:750/1334">
-    <source src="./Liangzhu1.mov" type="video/mp4">
-</video>
+<iframe width="100%" height="auto" style="aspect-ratio:2480/4134" mozallowfullscreen="true" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr" frameborder="0" src="https://bolicrad.gitee.io/baum-preview/index.html" msallowfullscreen="true" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" id="game_drop" allowtransparency="true"></iframe>
+
 
 * Role: Developer
 * Duration: a Week in Janurary 2021
@@ -133,7 +140,8 @@ This tech demo is a part of my work result at Tantrum Network. Liangzhu was an i
 
 ## d) Inky_Stone
 
-![](/gallery/Inky1.png)
+<!-- ![](/gallery/Inky1.png) -->
+<iframe width="100%" height="auto" style="aspect-ratio:9/16" mozallowfullscreen="true" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr" frameborder="0" src="//v6p9d9t4.ssl.hwcdn.net/html/4913464/web-mobile/index.html" msallowfullscreen="true" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" id="game_drop" allowtransparency="true"></iframe>
 
 * Role: Developer
 * Duration: 2 weeks in November 2019
