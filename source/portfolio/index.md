@@ -63,7 +63,9 @@ This project is an race game that players drives a crazy car in the cit collecti
 
 This game was the main project when I worked at Tantrum Network. I took all programming works of this game from scratch, including the main gameplay, data structure of heroes and enemies, UI framework, animation pipeline, data automation, etc. 
 
-### [Try the live demo on itch.io](https://bolicradar.itch.io/bouncy-strike)
+The IP owner later polished and published it on iOS, the UI system updated, but the core gameplay and animation systems retains as when I left this project.
+
+### [Try the published version on iOS](https://apps.apple.com/us/app/摩登弹西游2/id1592463731?l=en)
 
 ## e) Everyday Dice Game
 
