@@ -143,7 +143,7 @@ This tech demo is a part of my work result at Tantrum Network. Liangzhu was an i
 ## d) Inky_Stone
 
 <!-- ![](/gallery/Inky1.png) -->
-<iframe width="100%" height="auto" style="aspect-ratio:9/16" mozallowfullscreen="true" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr" frameborder="0" src="//v6p9d9t4.ssl.hwcdn.net/html/4913464/web-mobile/index.html" msallowfullscreen="true" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" id="game_drop" allowtransparency="true"></iframe>
+<iframe width="100%" height="auto" style="aspect-ratio:9/16" mozallowfullscreen="true" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr" frameborder="0" src="//v6p9d9t4.ssl.hwcdn.net/html/5134453/web-mobile/index.html" msallowfullscreen="true" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" id="game_drop" allowtransparency="true"></iframe>
 
 * Role: Developer
 * Duration: 2 weeks in November 2019
