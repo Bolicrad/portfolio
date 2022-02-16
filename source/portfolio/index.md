@@ -6,7 +6,7 @@ toc: true
 
 # 1. Main Projects
 
-## a) Retrieve
+## a) ReTrieve
 
 {% youtuber video tu9jHgyxQGw %}
 {% endyoutuber %}
@@ -18,8 +18,11 @@ toc: true
 
 This project is a 2D platformer game where players could explore multiple themed worlds, using swords and elementary magics to fight against various bosses. I worked on this title for about 4 months with a team of 5, including another programmer and 3 artists. I mainly focused on the design and programming work of enemy AI and Boss Fights. I also instructed the artist team to create the tilemap, designed the level blocks in the 3.0 version, and coded for the level random generating algorithms.
 
+<iframe src="https://itch.io/embed/461243" height="167" width="100%" frameborder="0"><a href="https://mcatin.itch.io/retrieve">ReTrieve by MCATIN, 419152731, Bolicrad, Daemonn</a></iframe>
+
 ### [See more details in this Dev Story post.](/post/Retrieve)
-### [Download from itch.io](https://mcatin.itch.io/retrieve)
+<!-- ### [Download from itch.io](https://mcatin.itch.io/retrieve) -->
+
 
 
 ## b) Project Haiku
@@ -71,7 +74,8 @@ This game was the main project when I worked at Tantrum Network. I took all prog
 
 The IP owner later polished and published it on iOS, the UI system updated, but the core gameplay and animation systems retains as when I left this project.
 
-### [Try the published version on iOS](https://apps.apple.com/us/app/摩登弹西游2/id1592463731?l=en)
+<!-- ### [Try the published version on iOS](https://apps.apple.com/us/app/摩登弹西游2/id1592463731?l=en) -->
+<a href="https://apps.apple.com/us/app/%E6%91%A9%E7%99%BB%E5%BC%B9%E8%A5%BF%E6%B8%B82/id1592463731?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=250x83&amp;releaseDate=1640563200&h=f01725f6dcbe1f62459d83a3bcbbaa8a" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 ## e) Everyday Dice Game
 
@@ -98,9 +102,11 @@ This game is a contract work from an individual who wanted to bring the experien
 * Period: One week in Janurary 2022
 * Engine: Unity
 
-This tech demo is a cousework of the "Experimental Gameplay" Course. I tried to develop a jump system in a 2d platformer setting. I made this majorly because I want to learn the creation of a 2d platformer character, including coding, as well as the animator state machine and the animations by frame. Character part in the [Retrieve](/post/Retrieve) project is mainly developed by my friend Daemon Pan, so I still want to discover my potential to finish such a game by myself. The double jump mechanic is well profiled and please have a try.
+This tech demo is a cousework of the "Experimental Gameplay" Course. I tried to develop a jump system in a 2d platformer setting. I made this majorly because I want to learn the creation of a 2d platformer character, including coding, as well as the animator state machine and the animations by frame. Character part in the [ReTrieve](/post/Retrieve) project is mainly developed by my friend Daemon Pan, so I still want to discover my potential to finish such a game by myself. The double jump mechanic is well profiled and please have a try.
 
-### [Try the live demo on itch.io](https://bolicradar.itch.io/route-of-industrialization)
+<!-- ### [Try the live demo on itch.io](https://bolicradar.itch.io/route-of-industrialization) -->
+
+<iframe src="https://itch.io/embed/1358147" height="167" width="100%" frameborder="0"><a href="https://bolicradar.itch.io/route-of-industrialization">Route of Industrialization by Bolicradar</a></iframe>
 
 ## b) True Fisrt Person Demo in Unreal
 
@@ -142,7 +148,8 @@ This tech demo is a part of my work result at Tantrum Network. Liangzhu was an i
 
 This tech demo is a part of my work result in Dr.Stone Popular Science Studio. The students in earth and space science intended to make some physics-based minigames by themselves with cocos creator, and wanted to add a framework to for science-themed interactive dialouges. So I imported the [ink.js](https://github.com/y-lohse/inkjs) library to the cocos proejct, and made a tech demo to excute the file exported from the [inky editor](https://github.com/inkle/inky), to empower the game team to create fun choices and questions.
 
-### [Try the live demo on itch.io](https://bolicradar.itch.io/inky-stone)
+<!-- ### [Try the live demo on itch.io](https://bolicradar.itch.io/inky-stone) -->
+<iframe src="https://itch.io/embed/1308094" height="167" width="100%" frameborder="0"><a href="https://bolicradar.itch.io/inky-stone">Inky_Stone by Bolicradar</a></iframe>
 
 
 # 3. Prototypes & Minor Projects
@@ -158,7 +165,8 @@ This tech demo is a part of my work result in Dr.Stone Popular Science Studio. T
 
 This project is an race game that players drives a crazy car in the cit collecting treasure and fuel, avoiding the cop's chase. The highlight is that we have the twitch integration that twitch watcher could use command to produce obstacle or boosters for the player when streaming. I joined the project in the mid-phase and took over the UI function remake, 2D/UI art asset management, as well as technology research works on twitch API. 
 
-### [Download from itch.io](https://foursay.itch.io/heist-n-heat-infinite)
+<!-- ### [Download from itch.io](https://foursay.itch.io/heist-n-heat-infinite) -->
+<iframe src="https://itch.io/embed/1304314" height="167" width="100%" frameborder="0"><a href="https://foursay.itch.io/heist-n-heat-infinite">Heist N&#039; Heat: Infinite by Foursay</a></iframe>
 
 ## b) Stinky Snake
 
@@ -171,7 +179,9 @@ This project is an race game that players drives a crazy car in the cit collecti
 
 A work of my SP22 EAE course "Experimental Gameplay". This title rethinks the relationship between we human and the influence we made to the environment, and tried to explore what potential effects the "eternal legacy" would provide to us, in an irony way. Developed in exactly one day and have just art/audio assets outsourced.
 
-### [Try the live demo on itch.io](https://bolicradar.itch.io/stinky-snake)
+<!-- ### [Try the live demo on itch.io](https://bolicradar.itch.io/stinky-snake) -->
+
+<iframe src="https://itch.io/embed/1380498" height="167" width="100%" frameborder="0"><a href="https://bolicradar.itch.io/stinky-snake">Stinky Snake by Bolicradar</a></iframe>
 
 ## c) Tele-Rang
 
@@ -199,7 +209,8 @@ This prototype was required to design around a toy boomerang (toy varies among t
 
 This prototype is my fisrt piece of work in video game, cooperated with two other experienced programmers and three student artists. For design, I brought up the idea of asymmetric local multiplayer, that one player control the hero with keyboard and the other control the demon king with mouse to trigger the traps. For engineering, I focused on the algorithm of the traps' movement and enemies' logic (especially the creppy flies). I also finished half of the level design, by creating level prefab with the object brush provided by my teammate.
 
-### [Download from itch.io](https://bolicrad.itch.io/trick)
+<!-- ### [Download from itch.io](https://bolicrad.itch.io/trick) -->
+<iframe src="https://itch.io/embed/364139" height="167" width="100%"  frameborder="0"><a href="https://bolicrad.itch.io/trick">Trick by Bolicrad, MKK.kkkk, hch12hhh, BloodyOrchidDC, Hikari cat</a></iframe>
 
 ## e) Trash Truck
 
@@ -212,7 +223,9 @@ This prototype is my fisrt piece of work in video game, cooperated with two othe
 
 This is a serious game themed on trash categorizing and recycling, intended to educate kids to learn how to throw the trash into correct kind of trashcan to help the socitey to deal with recycling better. Created with [Unity Playground](https://github.com/Unity-Technologies/UnityPlayground).
 
-### [Try the live demo on itch.io](https://bolicrad.itch.io/trash-truck)
+<!-- ### [Try the live demo on itch.io](https://bolicrad.itch.io/trash-truck) -->
+<iframe src="https://itch.io/embed/470193" height="167" width="100%" frameborder="0"><a href="https://bolicrad.itch.io/trash-truck">Trash Truck by Bolicrad</a></iframe>
+
 
 ## f) Grassland Guardian
 
@@ -228,4 +241,6 @@ This is a serious game themed on trash categorizing and recycling, intended to e
 
 This game originated in a hackathon intended to help an NGO enhance its public communication. The NGO has worked on grassland protection and fought against desertification for several years in Northeastern China. I brought up a serious game plan to show their difficulty and finished a prototype within 24 hours. Later, I remade this project into an applet-based game and completed my thesis based on this game's development process and communication effect research.
 
-### [Try the live demo on itch.io](https://bolicradar.itch.io/grassland-guardian)
+<!-- ### [Try the live demo on itch.io](https://bolicradar.itch.io/grassland-guardian) -->
+
+<iframe src="https://itch.io/embed/1267378" height="167" width="100%" frameborder="0"><a href="https://bolicradar.itch.io/grassland-guardian">Grassland Guardian by Bolicradar</a></iframe>
