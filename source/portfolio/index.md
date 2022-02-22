@@ -58,7 +58,7 @@ This ongoing project is a currently a coursework under the topic of "Alternative
     <source src="./VacuumWar_Playtest2.MOV" type="video/mp4">
 </video>
 
-### More details to be updated as the project progresses.
+### More details going be updated as the project progresses.
 
 ## d) Bouncy Strike
 
