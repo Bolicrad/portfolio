@@ -4,7 +4,7 @@ date: 2021-10-28 01:10:01
 toc: true
 ---
 
-# 1. Main Projects
+# 1. Major Personal Projects
 
 ## a) ReTrieve
 
@@ -60,7 +60,9 @@ This ongoing project is a currently a coursework under the topic of "Alternative
 
 ### More details going be updated as the project progresses.
 
-## d) Bouncy Strike
+# 2. Shipped Titles
+
+## a) Bouncy Strike
 
 <!-- ![](/gallery/Bouncy1.JPG) -->
 
@@ -77,7 +79,7 @@ The IP owner later polished and published it on iOS, the UI system updated, but 
 <!-- ### [Try the published version on iOS](https://apps.apple.com/us/app/摩登弹西游2/id1592463731?l=en) -->
 <a href="https://apps.apple.com/us/app/%E6%91%A9%E7%99%BB%E5%BC%B9%E8%A5%BF%E6%B8%B82/id1592463731?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=250x83&amp;releaseDate=1640563200&h=f01725f6dcbe1f62459d83a3bcbbaa8a" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
-## e) Everyday Dice Game
+## b) Everyday Dice Game
 
 ![](/gallery/Dice1.png)
 
@@ -92,21 +94,66 @@ This game is a contract work from an individual who wanted to bring the experien
 ![](/gallery/Dice2.JPG)
 
 
-# 2. Tech Demos
+# 3. “Experimental Gameplay” courseworks
 
 ## a) Route of Industilization
 
 ![](https://img.itch.zone/aW1nLzc5MDY0MzUucG5n/315x250%23c/vcyikA.png)
 
-* Role: Solo Developer
+* Role: Solo Game Developer
 * Period: One week in Janurary 2022
 * Engine: Unity
 
-This tech demo is a cousework of the "Experimental Gameplay" Course. I tried to develop a jump system in a 2d platformer setting. I made this majorly because I want to learn the creation of a 2d platformer character, including coding, as well as the animator state machine and the animations by frame. Character part in the [ReTrieve](/post/Retrieve) project is mainly developed by my friend Daemon Pan, so I still want to discover my potential to finish such a game by myself. The double jump mechanic is well profiled and please have a try.
+This game is the first cousework of the "Experimental Gameplay" course, with the theme "Futurism". I tried to develop a jump system in a 2d platformer setting, majorly because I want to learn the creation of a 2d platformer character, including its coding, as well as the animator state machine and the animations by frame. Character part in the [ReTrieve](/post/Retrieve) project is mainly developed by my friend Daemon Pan, so I still want to discover my potential to finish such a game by myself. The double jump mechanic is well profiled and it's nice to have a try. The scoring of this game somehow refelcts the modern China history. 
 
 <!-- ### [Try the live demo on itch.io](https://bolicradar.itch.io/route-of-industrialization) -->
 
 <iframe src="https://itch.io/embed/1358147" height="167" width="100%" frameborder="0"><a href="https://bolicradar.itch.io/route-of-industrialization">Route of Industrialization by Bolicradar</a></iframe>
+
+## b) Stinky Snake
+
+![](/gallery/StinkySnake.png)
+
+* Role: Solo Game Developer
+* Period: Februray 1st 2022
+* Engine: Unity
+* Special: EXTREMELY STINKY. You will like it.
+
+Third coursework of the "Experimental Gameplay" course, with the theme "Legacy Game", which means you need to leave some eternal change to the game space across multiple game sessions. This title rethinks the relationship between we human and the influence we made to the environment, and tried to explore what potential effects the "eternal legacy" would provide to us, in an irony way. Developed in exactly one day and have just art/audio assets outsourced.
+
+<!-- ### [Try the live demo on itch.io](https://bolicradar.itch.io/stinky-snake) -->
+
+<iframe src="https://itch.io/embed/1380498" height="167" width="100%" frameborder="0"><a href="https://bolicradar.itch.io/stinky-snake">Stinky Snake by Bolicradar</a></iframe>
+
+## c) Fruit Bar
+
+<video  width="100%" height="auto" controls style="aspect-ratio:314/335">
+    <source src="./FruitBar.mov" type="video/mp4">
+</video>
+
+* Role: Solo Game Developer
+* Period: One Week in late Februray 2022
+* Engine: Cocos Creater
+
+Sixth coursework of the "Experimental Gameplay" course, with the theme "Match-3 with Twisted Gameplay". As match-3 is majorly ditrbuted on smart phones, I chose cocos creater to create more mobile friendly experience. The twist on traditional match-3 gameplay is "Rotation", as you can see in the video. When you use a mobile device to play this game, the direction friuts falling down will change if you rotate your device. With this new mechanic, you can even rotate the game in certain timing to achieve higher combos. It become popular in some of my friends and should be a novel experience.
+
+<iframe src="https://itch.io/embed/1410409" height="167" width="100%" frameborder="0"><a href="https://bolicradar.itch.io/fruit-bar">Fruit Bar by Bolicradar</a></iframe>
+
+# 4. Tech Demos
+
+## a) Inky_Stone
+
+<!-- ![](/gallery/Inky1.png) -->
+<iframe width="100%" height="auto" style="aspect-ratio:9/16" mozallowfullscreen="true" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr" frameborder="0" src="//v6p9d9t4.ssl.hwcdn.net/html/5134453/web-mobile/index.html" msallowfullscreen="true" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" id="game_drop" allowtransparency="true"></iframe>
+
+* Role: Solo Developer
+* Period: Two weeks in November 2019
+* Engine: Cocos Creator
+
+This tech demo is a part of my work result in Dr.Stone Popular Science Studio. The students in earth and space science intended to make some physics-based minigames by themselves with cocos creator, and wanted to add a framework to for science-themed interactive dialouges. So I imported the [ink.js](https://github.com/y-lohse/inkjs) library to the cocos proejct, and made a tech demo to excute the file exported from the [inky editor](https://github.com/inkle/inky), to empower the game team to create fun choices and questions.
+
+<!-- ### [Try the live demo on itch.io](https://bolicradar.itch.io/inky-stone) -->
+<iframe src="https://itch.io/embed/1308094" height="167" width="100%" frameborder="0"><a href="https://bolicradar.itch.io/inky-stone">Inky_Stone by Bolicradar</a></iframe>
 
 ## b) True Fisrt Person Demo in Unreal
 
@@ -137,22 +184,7 @@ This tech demo is a part of my work result at Tantrum Network. Liangzhu was an i
 
 ### [Try the live demo on gitee.io](https://bolicrad.gitee.io/baum-preview)
 
-## d) Inky_Stone
-
-<!-- ![](/gallery/Inky1.png) -->
-<iframe width="100%" height="auto" style="aspect-ratio:9/16" mozallowfullscreen="true" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr" frameborder="0" src="//v6p9d9t4.ssl.hwcdn.net/html/5134453/web-mobile/index.html" msallowfullscreen="true" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" id="game_drop" allowtransparency="true"></iframe>
-
-* Role: Solo Developer
-* Period: Two weeks in November 2019
-* Engine: Cocos Creator
-
-This tech demo is a part of my work result in Dr.Stone Popular Science Studio. The students in earth and space science intended to make some physics-based minigames by themselves with cocos creator, and wanted to add a framework to for science-themed interactive dialouges. So I imported the [ink.js](https://github.com/y-lohse/inkjs) library to the cocos proejct, and made a tech demo to excute the file exported from the [inky editor](https://github.com/inkle/inky), to empower the game team to create fun choices and questions.
-
-<!-- ### [Try the live demo on itch.io](https://bolicradar.itch.io/inky-stone) -->
-<iframe src="https://itch.io/embed/1308094" height="167" width="100%" frameborder="0"><a href="https://bolicradar.itch.io/inky-stone">Inky_Stone by Bolicradar</a></iframe>
-
-
-# 3. Prototypes & Minor Projects
+# 5. Prototypes & Legacy Projects
 
 ## a) Heist-N-Heat Infinite
 
@@ -168,22 +200,7 @@ This project is an race game that players drives a crazy car in the cit collecti
 <!-- ### [Download from itch.io](https://foursay.itch.io/heist-n-heat-infinite) -->
 <iframe src="https://itch.io/embed/1304314" height="167" width="100%" frameborder="0"><a href="https://foursay.itch.io/heist-n-heat-infinite">Heist N&#039; Heat: Infinite by Foursay</a></iframe>
 
-## b) Stinky Snake
-
-![](/gallery/StinkySnake.png)
-
-* Role: Solo Game Developer
-* Period: Februray 1st 2022
-* Engine: Unity
-* Special: EXTREMELY STINKY. You will like it.
-
-A work of my SP22 EAE course "Experimental Gameplay". This title rethinks the relationship between we human and the influence we made to the environment, and tried to explore what potential effects the "eternal legacy" would provide to us, in an irony way. Developed in exactly one day and have just art/audio assets outsourced.
-
-<!-- ### [Try the live demo on itch.io](https://bolicradar.itch.io/stinky-snake) -->
-
-<iframe src="https://itch.io/embed/1380498" height="167" width="100%" frameborder="0"><a href="https://bolicradar.itch.io/stinky-snake">Stinky Snake by Bolicradar</a></iframe>
-
-## c) Tele-Rang
+## b) Tele-Rang
 
 ![](/gallery/Telerang1.jpg)
 
@@ -196,6 +213,22 @@ This prototype was required to design around a toy boomerang (toy varies among t
 
 ### [Check project files on Google Drive](https://drive.google.com/drive/folders/1R0zp-6w-1aIIk_SzZm95iEI_BcD5IFdX)
 
+## c) Grassland Guardian
+
+<!-- ![](/gallery/Grass1.png) -->
+
+<iframe width="100%" height="auto" style="aspect-ratio:9/16" mozallowfullscreen="true" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr" frameborder="0" src="https://v6p9d9t4.ssl.hwcdn.net/html/4737584/web-mobile/index.html" msallowfullscreen="true" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" id="game_drop" allowtransparency="true"></iframe>
+
+* Role: Solo Game Developer
+* Period: Originated in May 2019, developed from December 2019 to June 2020
+* Engine: Unity (Original Prototype) & Cocos Creator (Publish Version) 
+* Special: Serious Game connected with my thesis project for bachelor's degree
+
+This game originated in a hackathon intended to help an NGO enhance its public communication. The NGO has worked on grassland protection and fought against desertification for several years in Northeastern China. I brought up a serious game plan to show their difficulty and finished a prototype within 24 hours. Later, I remade this project into an applet-based game and completed my thesis based on this game's development process and communication effect research.
+
+<!-- ### [Try the live demo on itch.io](https://bolicradar.itch.io/grassland-guardian) -->
+
+<iframe src="https://itch.io/embed/1267378" height="167" width="100%" frameborder="0"><a href="https://bolicradar.itch.io/grassland-guardian">Grassland Guardian by Bolicradar</a></iframe>
 
 ## d) Trick
 
@@ -225,22 +258,3 @@ This is a serious game themed on trash categorizing and recycling, intended to e
 
 <!-- ### [Try the live demo on itch.io](https://bolicrad.itch.io/trash-truck) -->
 <iframe src="https://itch.io/embed/470193" height="167" width="100%" frameborder="0"><a href="https://bolicrad.itch.io/trash-truck">Trash Truck by Bolicrad</a></iframe>
-
-
-## f) Grassland Guardian
-
-<!-- ![](/gallery/Grass1.png) -->
-
-<iframe width="100%" height="auto" style="aspect-ratio:9/16" mozallowfullscreen="true" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr" frameborder="0" src="https://v6p9d9t4.ssl.hwcdn.net/html/4737584/web-mobile/index.html" msallowfullscreen="true" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" id="game_drop" allowtransparency="true"></iframe>
-
-
-* Role: Solo Game Developer
-* Period: Originated in May 2019, developed from December 2019 to June 2020
-* Engine: Unity (Original Prototype) & Cocos Creator (Publish Version) 
-* Special: Serious Game connected with my thesis project for bachelor's degree
-
-This game originated in a hackathon intended to help an NGO enhance its public communication. The NGO has worked on grassland protection and fought against desertification for several years in Northeastern China. I brought up a serious game plan to show their difficulty and finished a prototype within 24 hours. Later, I remade this project into an applet-based game and completed my thesis based on this game's development process and communication effect research.
-
-<!-- ### [Try the live demo on itch.io](https://bolicradar.itch.io/grassland-guardian) -->
-
-<iframe src="https://itch.io/embed/1267378" height="167" width="100%" frameborder="0"><a href="https://bolicradar.itch.io/grassland-guardian">Grassland Guardian by Bolicradar</a></iframe>
