@@ -250,10 +250,10 @@ widgets:
                 icon: fab fa-linkedin
                 url: 'https://linkedin.com/in/lei-zhao-2149961a7'
             Discord:
-                icon: fa-brands fa-discord
+                icon: fab fa-discord
                 url: 'https://discordapp.com/users/879806395137003600'
             itch.io:
-                icon: fa-brands fa-itch-io
+                icon: fab fa-itch-io
                 url: 'https://bolicradar.itch.io'
             Mail:
                 icon: fas fa-envelope
