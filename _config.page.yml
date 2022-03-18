@@ -20,7 +20,7 @@ widgets:
         # Author name
         author: Lei Zhao
         # Author title
-        author_title: Game Designer & Developer
+        author_title: Game Developer & Technical Designer
         # Author's current location
         location: Salt Lake City, UT
         # URL or path to the avatar image
@@ -30,24 +30,25 @@ widgets:
         # Email address for the Gravatar
         gravatar: npt96sthsx@privaterelay.appleid.com
         # URL or path for the follow button
-        follow_link: 'https://github.com/bolicrad'
+        follow_link: ./atom.xml
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
                 icon: fab fa-github
                 url: 'https://github.com/bolicrad'
-            Linkedin:
+            LinkedIn:
                 icon: fab fa-linkedin
                 url: https://linkedin.com/in/lei-zhao-2149961a7
-            Twitter:
-                icon: fab fa-twitter
-                url: 'https://twitter.com/LeiZhao28243429'
+            Discord:
+                icon: fa-brands fa-discord
+                url: 'https://discordapp.com/users/879806395137003600'
+            itch.io:
+                icon: fa-brands fa-itch-io
+                url: 'https://bolicradar.itch.io'
             Mail:
                 icon: fas fa-envelope
                 url: 'mailto:Lei%20Zhao<bolicradar@outlook.com>'
-            RSS:
-                icon: fas fa-rss
-                url: ./atom.xml
+
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
