@@ -11,20 +11,17 @@ I'm a game developer. No matter which role I performed in a game project, no mat
 
 I'm currently pursuing a master's degree in game production at the University of Utah's [Entertainment Arts and Engineering](https://games.utah.edu), a fantastic video games graduate programs. I create video games with many other talented designers, engineers, and artists here.
 
-I got my bachelor's degree at the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn)), one of the top-tier researching institutes in China, which directly belongs to the Chinese Academy of Science. The department I graduated from, the Department of Science and Technology Communication, helped me build a solid knowledge system of media research, media production, and media management.
+I got my bachelor's degree at the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn)), one of the top-tier researching institutes in China, which directly belongs to the Chinese Academy of Science. The department I graduated from, the Department of Science and Technology Communication, helped me build a solid knowledge base of media research, media production, and media management.
 
 In 1997, I was born in Xi'an, China. This 3000 year historical capital city provides me with a sensitivity of history, geography, and civilization. I'm always curious about the natural and cultural specifications of every location I moved to, and can usually become a master of the time and space structure of that region, just as the locals.
 
 ## What's my role in game development?
 
-* Designer: I usually do the design works in collaboration, provide fancy ideas at the pre-production phase of game projects.  
-* Prototyper: I also code, both in personal and course projects, 'cause I believe a live demo is the best documentation to show the gameplay in my mind. 
 * Engineer: I work with various game engines. Unity, Unreal, Cocos Creator, Monogame, GameMaker, etc. Technology would never become a gap between me and fancy gameplays. I have experience in online-multiplayer games, all by myself with custom cloud side codes.
-* Producer: I'm have learned some project management and team communication skills. To be more agile, I will go snowboarding at the Snowbird Resort next snow season.
+* Designer: I usually do the design works in collaboration, provide fancy ideas at the pre-production phase of game projects.
+* Solo Game Developer: Why not sometimes make tiny games without a team? Though I still need to get access of free art assets.
 
-## To Recruiters:
-
-I'm looking for a Technical Designer internship or part-time position in US for summer 2022
+## What if I want to do both?
 
 I can never find a better term to describe me other than "Technical Designer." I always feel excited when I find some excellent new tools that might help build innovative gameplays. I'll always think about:
 
@@ -35,7 +32,7 @@ I can never find a better term to describe me other than "Technical Designer." I
 
 Then I'd take steps to research, implement, apply, and refine those new tools. This cycle could help me in building game creation tools from designer's need. I feel happy when supporting aowsome game designers and cooperate closely with developers and artists.
 
-I understand that such position is still not common in the industry, especially for internships, so I'm also developing my design skill trees, with gameplay programming practices. If you are looking for a game designer intern or gameplay engineer intern, I'm still confident to be a candidate. 
+I understand that such position is still not common in the industry, so I'm also developing my design skill trees, with gameplay programming practices. If you are looking for a gameplay programmer or game designer, I'm still confident to be a candidate. 
 
 ## To Artists, Social Workers, and Scientists:
 
@@ -55,8 +52,8 @@ Once again, I'm Lei, do not hesitate to contact me if you are interested. Not on
 
 Besides being a game developer and a hardcore gamer, I'm also a hobbyist in the railway system, snowboarding, urban planning, regional development, geopolitics, urban legends, etc.
 
-## My Recent FaceTime Screenshot
+## My Recent Photo
 
-![](/gallery/Photo.jpg)
+![](/gallery/Photo1.jpg)
 
 Use Bolicrad to refer me on the Internet; use Lei to contact me in person.
